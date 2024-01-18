@@ -1,6 +1,6 @@
 +++
 title = "Emacs as Editor"
-date = 2024-01-10
+date = 2024-01-17
 +++
 
 Emacs is Terminal Based Editor.
