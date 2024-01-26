@@ -19,3 +19,5 @@ const getTheme = () => {
 };
 
 getTheme();
+
+// WASTE JS IT IS
