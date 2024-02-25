@@ -3,7 +3,7 @@ name: Build and deploy GH Pages
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.ref != 'refs/heads/main'
+    if: github.ref != 'refs/heads/master'
     steps:
       - name: "checkout"
         uses: actions/checkout@v4
@@ -13,17 +13,17 @@ jobs:
           PAGES_BRANCH: gh-pages
           BUILD_DIR: .
           TOKEN: ${{ secrets.TOKEN }}
-          # BUILD_ONLY: true
+          BUILD_ONLY: true
   build_and_deploy:
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/master'
     steps:
       - name: "checkout"
         uses: actions/checkout@v4
       - name: "build and deploy"
         uses: shalzz/zola-deploy-action@v0.17.2
         env:
-          PAGES_BRANCH: master
+          PAGES_BRANCH: gh-pages
           BUILD_DIR: .
           TOKEN: ${{ secrets.PUBLIC_TOKEN }}
           REPOSITORY: adityadeshlahre/adityadeshlahre.github.io

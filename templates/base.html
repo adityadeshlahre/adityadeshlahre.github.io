@@ -3,7 +3,11 @@
   <head>
     <meta charset="utf-8" />
     <title>Aditya Zola</title>
-    <link rel="icon" type="image/png" href="../static/favicon.ico" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="https://github.com/adityadeshlahre/adityadeshlahre.github.io/blob/master/static/favicon.ico"
+    />
   </head>
 
   <body
@@ -12,20 +16,23 @@
       padding: 0;
       display: flex;
       flex-direction: column;
+      align-items: center;
+      justify-content: center;
       min-height: 100vh;
     "
   >
-    <div class="wrapper">
-      <header>
-          {% include "header.html" %}
-      </header>
-      <main>
-          {% block content %}
-          {% endblock content %}
-      </main>
-      <footer>
-          {% include "footer.html" %}
-      </footer>
+    <div
+      style="
+        min-height: 100vh;
+        min-height: 100svh;
+        display: grid;
+        grid-template-rows: auto 1fr auto;
+        gap: 2rem;
+      "
+    >
+      <header>{% include "header.html" %}</header>
+      <main>{% block content %} {% endblock content %}</main>
+      <footer>{% include "footer.html" %}</footer>
     </div>
   </body>
 </html>
