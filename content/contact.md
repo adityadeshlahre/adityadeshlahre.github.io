@@ -1,7 +1,7 @@
 +++
+title = "Ways to Contact Me..."
+page_template = "index.html"
 +++
-
-# This is contact page
 
 - [ Github ](https://github.com/adityadeshlahre)
 - [ Twitter / X ](https://twitter.com/adityadeshlahre)
