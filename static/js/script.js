@@ -21,3 +21,10 @@ const getTheme = () => {
 getTheme();
 
 // WASTE JS IT IS
+
+document.addEventListener("DOMContentLoaded", function () {
+  var clickSound = document.getElementById("clickSound");
+  document.addEventListener("click", function () {
+    clickSound.play();
+  });
+});

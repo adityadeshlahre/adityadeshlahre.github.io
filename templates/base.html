@@ -8,6 +8,14 @@
       type="image/png"
       href="https://raw.githubusercontent.com/adityadeshlahre/adityadeshlahre.github.io/master/static/favicon.ico"
     />
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        var clickSound = document.getElementById("clickSound");
+        document.addEventListener("click", function () {
+          clickSound.play();
+        });
+      });
+    </script>
   </head>
 
   <body
@@ -34,5 +42,11 @@
       <main>{% block content %} {% endblock content %}</main>
       <footer>{% include "footer.html" %}</footer>
     </div>
+    <audio id="clickSound">
+      <source
+        src="https://assets.mixkit.co/active_storage/sfx/3124/3124-preview.mp3"
+        type="audio/mpeg"
+      />
+    </audio>
   </body>
 </html>

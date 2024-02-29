@@ -1,5 +1,5 @@
 +++
-title = "Ways to Contact Me..."
+title = "./Ways to Contact Me..."
 page_template = "index.html"
 +++
 
