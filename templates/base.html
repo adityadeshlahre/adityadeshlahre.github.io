@@ -8,7 +8,7 @@
       type="image/png"
       href="https://raw.githubusercontent.com/adityadeshlahre/adityadeshlahre.github.io/master/static/favicon.ico"
     />
-    <link rel="stylesheet" href="./../static/css/style.css" />
+    <link rel="stylesheet" href="/css/style.css" />
     <script>
       document.addEventListener("DOMContentLoaded", function () {
         var clickSound = document.getElementById("clickSound");
@@ -21,27 +21,8 @@
       //src="https://raw.githubusercontent.com/adityadeshlahre/adityadeshlahre.github.io/master/static/clickSound.mp3" #music GH link
     </script>
   </head>
-
-  <body
-    style="
-      margin: 0;
-      padding: 0;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      min-height: 100vh;
-    "
-  >
-    <div
-      style="
-        min-height: 100vh;
-        min-height: 100svh;
-        display: grid;
-        grid-template-rows: auto 1fr auto;
-        gap: 2rem;
-      "
-    >
+  <body class="body container">
+    <div class="bodyDiv">
       <header>{% include "header.html" %}</header>
       <main>{% block content %} {% endblock content %}</main>
       <footer>{% include "footer.html" %}</footer>

@@ -1,11 +1,15 @@
+/* :root {
+  --border: 1px solid #cccccc;
+} */
+
 * {
-  max-height: 400px;
-  max-width: 600px;
+  /* max-height: 400px;
+  max-width: 600px; */
   box-sizing: border-box;
-  text-rendering: geometricPrecision;
+  /* text-rendering: geometricPrecision; */
 }
 
-body {
+.body {
   margin: 0;
   padding: 0;
   display: flex;
@@ -13,4 +17,17 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+}
+
+.bodyDiv {
+  min-height: 100vh;
+  min-height: 100svh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  gap: 0.5rem;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
 }
