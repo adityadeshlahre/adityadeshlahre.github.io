@@ -2,26 +2,32 @@
 title = "./Projects..."
 +++
 
-## [Project 1](https://google.com)
+<center>
 
-### Description
+## **_|Personal Projects|_**
 
-## [Project 2](https://google.com)
+| [Reconciliation React Huddle](https://github.com/adityadeshlahre/reconciliation) |
+| :------------------------------------------------------------------------------: |
+|    Efficiently updates DOM consistency, DOM manipulation, managing rerenders.    |
 
-### Description
+| [ZeetCode](https://github.com/adityadeshlahre/zeetcode) |
+| :-----------------------------------------------------: |
+| Code Executions MOTE project **[NOTE: FrontEnd Only]**  |
 
-## [Project 3](https://google.com)
+| [Code-Executer](https://github.com/adityadeshlahre/code-executer) |
+| :---------------------------------------------------------------: |
+|        A bit shell scripting & Ubuntu based code executer!        |
 
-### Description
+|   [Judge0.com Based](https://github.com/adityadeshlahre/rabbitMQ-RPC)    |
+| :----------------------------------------------------------------------: |
+| RabbitMQ PullPush Queue based code excecution on Judge0 docker container |
 
-## [Project 4](https://google.com)
+| [Couser Selling Website](https://github.com/adityadeshlahre/Course-Selling-Website) |
+| :---------------------------------------------------------------------------------: |
+|               A MERN based website [broken RN] USER/ADMIN Interfaces                |
 
-### Description
+|       [Fasoshop](https://github.com/adityadeshlahre/fasoshop)        |
+| :------------------------------------------------------------------: |
+| A PERN (2023 og-stack) based website [broken RN] USER/SELLER Pannels |
 
-## [Project 5](https://google.com)
-
-### Description
-
-## [Project 6](https://google.com)
-
-### Description
+</center>
