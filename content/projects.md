@@ -4,7 +4,7 @@ title = "./Projects..."
 
 <center>
 
-## **_|Personal Projects|_**
+## **_| Personal Projects |_**
 
 | [Reconciliation React Huddle](https://github.com/adityadeshlahre/reconciliation) |
 | :------------------------------------------------------------------------------: |

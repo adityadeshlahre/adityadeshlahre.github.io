@@ -3,18 +3,18 @@ title = "JavaScript Topics I MISSED"
 date = 2024-01-23
 +++
 
-# JavaScript Topics [ MUST LEARN ]
+### JavaScript Topics [ MUST LEARN ]
 
-## I ignored this TOPICS which are extremely important before diving to REACT !
+#### I ignored this TOPICS which are extremely important before diving to REACT !
 
-- [ ] Arrays
-- [ ] Arow Functions
-- [ ] Objects
+- [x] Arrays
+- [x] Arow Functions
+- [x] Objects
 - [ ] Maps [HighOnWork]
-- [ ] Filtering
-- [ ] Destructuring
+- [x] Filtering
+- [x] Destructuring
 - [ ] Mutability/Immutability
 
-### Not javascript specific but yes must do this!
+#### Not javascript specific but yes must do this!
 
 - [ ] Reconcilation [MOST-IMPOTENT]

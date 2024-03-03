@@ -3,9 +3,9 @@ title = "React Important Topics"
 date = 2024-01-18
 +++
 
-# React Important Topics to learn
+### React Important Topics to learn
 
-## I ignored this TOPICS which are extremely important !
+#### I ignored this TOPICS which are extremely important !
 
 - [x] useState
 - [x] useEffect
@@ -21,7 +21,7 @@ date = 2024-01-18
 - [ ] Writing Components
 - [ ] Context Api & Suspense Api
 
-## Good Things To Learn
+#### Good Things To Learn
 
 > State Management Tools
 
@@ -37,4 +37,4 @@ date = 2024-01-18
 
 > Writing FrontEnd Test Cases
 
-# Lastly Move to NextJs or React Native
+#### Lastly Move to NextJs or React Native
