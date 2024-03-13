@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Aditya Zola</title>
+    <subtitle>A personal site built on zola. [Dark Theme]</subtitle>
+    <link href="https://adityadeshlahre.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://adityadeshlahre.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-01-23T00:00:00+00:00</updated>
+    <id>https://adityadeshlahre.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>JavaScript Topics I MISSED</title>
+        <published>2024-01-23T00:00:00+00:00</published>
+        <updated>2024-01-23T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/blog/javascipt-specific-topics/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/blog/javascipt-specific-topics/</id>
+        
+        <content type="html">&lt;h3 id=&quot;javascript-topics-must-learn&quot;&gt;JavaScript Topics [ MUST LEARN ]&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;i-ignored-this-topics-which-are-extremely-important-before-diving-to-react&quot;&gt;I ignored this TOPICS which are extremely important before diving to REACT !&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Arrays&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Arow Functions&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Objects&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Maps [HighOnWork]&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Filtering&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Destructuring&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Mutability&#x2F;Immutability&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;not-javascript-specific-but-yes-must-do-this&quot;&gt;Not javascript specific but yes must do this!&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Reconcilation [MOST-IMPOTENT]&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>React Important Topics</title>
+        <published>2024-01-18T00:00:00+00:00</published>
+        <updated>2024-01-18T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/blog/react-topics/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/blog/react-topics/</id>
+        
+        <content type="html">&lt;h3 id=&quot;react-important-topics-to-learn&quot;&gt;React Important Topics to learn&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;i-ignored-this-topics-which-are-extremely-important&quot;&gt;I ignored this TOPICS which are extremely important !&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+useState&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+useEffect&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+useMemo&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+useReffs&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Recoil&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Prop Drilling&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Context&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Reconilation&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Rendering&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Hooks&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+CustomHooks&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Writing Components&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Context Api &amp;amp; Suspense Api&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;good-things-to-learn&quot;&gt;Good Things To Learn&lt;&#x2F;h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;State Management Tools&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Routing React Specifec&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Performence Improvement jargons&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;React Hook Form &#x2F; Formik&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Backend Specifec Topics&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SWR &#x2F; React Query&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Writing FrontEnd Test Cases&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;lastly-move-to-nextjs-or-react-native&quot;&gt;Lastly Move to NextJs or React Native&lt;&#x2F;h4&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Emacs as Editor</title>
+        <published>2024-01-17T00:00:00+00:00</published>
+        <updated>2024-01-17T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/blog/emacs-as-editor/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/blog/emacs-as-editor/</id>
+        
+        <content type="html">&lt;p&gt;Emacs is Terminal Based Editor.&lt;&#x2F;p&gt;
+&lt;p&gt;Inbuilt Browser,Terminal and File Manager too.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Vim as Editor</title>
+        <published>2024-01-10T00:00:00+00:00</published>
+        <updated>2024-01-10T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/blog/vim-as-editor/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/blog/vim-as-editor/</id>
+        
+        <content type="html">&lt;p&gt;Vim is Terminal Based Editor.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
