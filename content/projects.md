@@ -6,6 +6,10 @@ title = "./Projects..."
 
 ## **_| Personal Projects |_**
 
+|  [SongSlayer](https://github.com/adityadeshlahre/songSlayer)  |
+| :-----------------------------------------------------------: |
+| A song voting platform! webSoket based, song queu Redis Based |
+
 | [Reconciliation React Huddle](https://github.com/adityadeshlahre/reconciliation) |
 | :------------------------------------------------------------------------------: |
 |    Efficiently updates DOM consistency, DOM manipulation, managing rerenders.    |
