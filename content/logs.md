@@ -17,6 +17,8 @@ page_template = "logs.html"
 
   - Full Stacking the Development
   - Open Source Contributions
+  - Building MicroServices
+  - Linux Administration [ still deciding ]
 
 - IRL
 
