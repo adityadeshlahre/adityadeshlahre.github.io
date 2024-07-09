@@ -12,7 +12,7 @@ default_language = "en"
 
 title = "Aditya Zola"
 description = "A personal site built on zola. [Dark Theme]"
-generate_feed = true
+# generate_feed = false
 
 taxonomies = [
     {name = "categories", feed = true},
