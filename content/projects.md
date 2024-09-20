@@ -10,9 +10,9 @@ title = "./Projects..."
 | :------------------------------------------------------------------------: |
 | Simple full stack application starter kit you can init using this templste |
 
-|              [travander](https://github.com/adityadeshlahre/tarvander)              |
-| :---------------------------------------------------------------------------------: |
-| A frontend only project built on NextJs and tailwind css with simple responsiveness |
+|                      [travander](https://github.com/adityadeshlahre/tarvander)                       |
+| :--------------------------------------------------------------------------------------------------: |
+| A full-stack project built on NextJs and tailwind css with simple responsiveness and payment gateway |
 
 | [GSoC'24](https://gist.github.com/adityadeshlahre/ee28a4c6100788ae23196e8e2394738f) |
 | :---------------------------------------------------------------------------------: |
