@@ -6,9 +6,9 @@ title = "./Projects..."
 
 ## **_| Personal Projects |_**
 
-|       [quick-start](https://github.com/adityadeshlahre/quick-start)        |
-| :------------------------------------------------------------------------: |
-| Simple full stack application starter kit you can init using this templste |
+| [quick-start](https://github.com/adityadeshlahre/quick-start) [[Github](https://github.com/adityadeshlahre/quick-start) , [Live](https://github.com/adityadeshlahre/quick-start)] |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                    Simple full stack application starter kit you can init using this templste                                                     |
 
 |                      [travander](https://github.com/adityadeshlahre/tarvander)                       |
 | :--------------------------------------------------------------------------------------------------: |
