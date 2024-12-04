@@ -141,7 +141,7 @@ style="
     </div>
     </a>
     <a
-    href="https://github.com/documenso/documenso/pulls?q=is%3Apr+is%3Aclosed+author%3Aadityadeshlahre"
+    href="https://adityadeshlahre.github.io/resume/resume.pdf"
     style="
         background-color: #fff;
         border-radius: 8px;
@@ -166,7 +166,7 @@ style="
         color: #999;
         "
     >
-        something
+        FE DEV 1
     </div>
     <div
         style="
@@ -177,10 +177,10 @@ style="
         font-weight: bold;
         "
     >
-        WILL ADD SOMETHING
+        SellerSetu (Remote)
     </div>
     <div style="text-align: center; margin-top: 40px; font-size: 15px">
-        description WILL ADD SOMETHING
+        Check Resume For Better Idea about my work!
     </div>
     </a>
 </div>

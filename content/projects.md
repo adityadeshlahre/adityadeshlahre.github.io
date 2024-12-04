@@ -6,25 +6,29 @@ title = "./Projects..."
 
 ## **_| Personal Projects |_**
 
-| [quick-start](https://github.com/adityadeshlahre/quick-start) [[Github](https://github.com/adityadeshlahre/quick-start) , [Live](https://github.com/adityadeshlahre/quick-start)] |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                    Simple full stack application starter kit you can init using this templste                                                     |
+| next-start [[Github](https://github.com/adityadeshlahre/next-start) , [Live](https://next-start-web.onrender.com)] |
+| :----------------------------------------------------------------------------------------------------------------: |
+|              Simple Next Js based full stack application starter kit you can init using this template              |
 
-|                      [travander](https://github.com/adityadeshlahre/tarvander)                       |
-| :--------------------------------------------------------------------------------------------------: |
-| A full-stack project built on NextJs and tailwind css with simple responsiveness and payment gateway |
+| quick-start [[Github](https://github.com/adityadeshlahre/quick-start) , [Live](https://quick-start-web.onrender.com)] |
+| :-------------------------------------------------------------------------------------------------------------------: |
+|                      Simple full stack application starter kit you can init using this template                       |
 
-| [GSoC'24](https://gist.github.com/adityadeshlahre/ee28a4c6100788ae23196e8e2394738f) |
-| :---------------------------------------------------------------------------------: |
-|   Google Summer Of Code 2024 project work I did under org called OpenELIS Globle    |
+| tarvander [[Github](https://github.com/adityadeshlahre/tarvander),[Live](https://tarvander.vercel.app/)] |
+| :------------------------------------------------------------------------------------------------------: |
+|   A full-stack project built on NextJs and tailwind css with simple responsiveness and payment gateway   |
 
-|  [SongSlayer](https://github.com/adityadeshlahre/songSlayer)  |
-| :-----------------------------------------------------------: |
-| A song voting platform! webSoket based, song queu Redis Based |
+| GSoC'24 [[Finall Project Report](https://gist.github.com/adityadeshlahre/ee28a4c6100788ae23196e8e2394738f)] |
+| :---------------------------------------------------------------------------------------------------------: |
+|               Google Summer Of Code 2024 project work I did under org called OpenELIS Globle                |
 
-| [Reconciliation React Huddle](https://github.com/adityadeshlahre/reconciliation) |
-| :------------------------------------------------------------------------------: |
-|    Efficiently updates DOM consistency, DOM manipulation, managing rerenders.    |
+| SongSlayer [[Github](https://github.com/adityadeshlahre/songSlayer)] |
+| :------------------------------------------------------------------: |
+|    A song voting platform! webSoket based, song queu Redis Based     |
+
+| Reconciliation React Huddle [[GitHub](https://github.com/adityadeshlahre/reconciliation)] |
+| :---------------------------------------------------------------------------------------: |
+|        Efficiently updates DOM consistency, DOM manipulation, managing rerenders.         |
 
 | [ZeetCode](https://github.com/adityadeshlahre/zeetcode) |
 | :-----------------------------------------------------: |
