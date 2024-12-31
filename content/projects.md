@@ -6,13 +6,21 @@ title = "./Projects..."
 
 ## **_| Personal Projects |_**
 
+| native-start [[Github](https://github.com/adityadeshlahre/remix-start) , [Live](https://native-start-web.onrender.com)] |
+| :---------------------------------------------------------------------------------------------------------------------: |
+|          react native apps + FULLSTACK app in JS EcoSystem based starter kit you can init using this template           |
+
+| remix-start [[Github](https://github.com/adityadeshlahre/remix-start) , [Live](https://remix-start.onrender.com/)] |
+| :----------------------------------------------------------------------------------------------------------------: |
+|             Simple REMIX Js based full stack application starter kit you can init using this template              |
+
 | next-start [[Github](https://github.com/adityadeshlahre/next-start) , [Live](https://next-start-web.onrender.com)] |
 | :----------------------------------------------------------------------------------------------------------------: |
 |              Simple Next Js based full stack application starter kit you can init using this template              |
 
 | quick-start [[Github](https://github.com/adityadeshlahre/quick-start) , [Live](https://quick-start-web.onrender.com)] |
 | :-------------------------------------------------------------------------------------------------------------------: |
-|                      Simple full stack application starter kit you can init using this template                       |
+|                    Simple react + node js application starter kit you can init using this template                    |
 
 | tarvander [[Github](https://github.com/adityadeshlahre/tarvander),[Live](https://tarvander.vercel.app/)] |
 | :------------------------------------------------------------------------------------------------------: |
