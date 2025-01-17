@@ -13,15 +13,15 @@ style="
     <a
     href="https://github.com/formbricks/formbricks/pulls?q=is%3Apr+is%3Aclosed+author%3Aadityadeshlahre"
     style="
-        background-color: #fff;
+        background-color: #1c1c1c;
         border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 4px 8px rgba(142, 142, 142, 0.5);
         width: calc(50% - 10px);
         padding: 20px;
         cursor: pointer;
         position: relative;
         text-decoration: none;
-        color: #333;
+        color: inherit;
         transition: transform 0.3s ease;
     "
     onmouseover="this.style.transform='scale(1.05)';"
@@ -33,7 +33,7 @@ style="
         top: 10px;
         left: 10px;
         font-size: 14px;
-        color: #999;
+        background-color : transparent;
         "
     >
         Hactober Fest
@@ -45,11 +45,12 @@ style="
         right: 10px;
         font-size: 16px;
         font-weight: bold;
+        background-color : transparent;
         "
     >
         FormBricks[FormTribe]
     </div>
-    <div style="text-align: center; margin-top: 40px; font-size: 15px">
+    <div style="text-align: center; margin-top: 40px; font-size: 15px; background-color : transparent">
         Finding bugs and fixing them in over all product and developming
         FEAT and fixing codes
     </div>
@@ -57,15 +58,15 @@ style="
     <a
     href="https://github.com/documenso/documenso/pulls?q=is%3Apr+is%3Aclosed+author%3Aadityadeshlahre"
     style="
-        background-color: #fff;
+        background-color: #1c1c1c;
         border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 4px 8px rgba(142, 142, 142, 0.5);
         width: calc(50% - 10px);
         padding: 20px;
         cursor: pointer;
         position: relative;
         text-decoration: none;
-        color: #333;
+        color: inherit;
         transition: transform 0.3s ease;
     "
     onmouseover="this.style.transform='scale(1.05)';"
@@ -77,7 +78,7 @@ style="
         top: 10px;
         left: 10px;
         font-size: 14px;
-        color: #999;
+        background-color : transparent;
         "
     >
         Ad Hoc
@@ -89,26 +90,27 @@ style="
         right: 10px;
         font-size: 16px;
         font-weight: bold;
+        background-color : transparent;
         "
     >
         Documenso
     </div>
-    <div style="text-align: center; margin-top: 40px; font-size: 15px">
+    <div style="text-align: center; margin-top: 40px; font-size: 15px; background-color : transparent">
         Worked on simple AD-HOC/Simple issuse relate to DEV Toolings
     </div>
     </a>
     <a
     href="https://github.com/I-TECH-UW/OpenELIS-Global-2/pulls?q=is%3Apr+is%3Aclosed+author%3Aadityadeshlahre"
     style="
-        background-color: #fff;
+        background-color: #1c1c1c;
         border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 4px 8px rgba(142, 142, 142, 0.5);
         width: calc(50% - 10px);
         padding: 20px;
         cursor: pointer;
         position: relative;
         text-decoration: none;
-        color: #333;
+        color: inherit;
         transition: transform 0.3s ease;
     "
     onmouseover="this.style.transform='scale(1.05)';"
@@ -120,7 +122,7 @@ style="
         top: 10px;
         left: 10px;
         font-size: 14px;
-        color: #999;
+        background-color : transparent;
         "
     >
         GSOC 2024
@@ -132,26 +134,27 @@ style="
         right: 10px;
         font-size: 16px;
         font-weight: bold;
+        background-color : transparent;
         "
     >
         OpenELIS Foundation
     </div>
-    <div style="text-align: center; margin-top: 40px; font-size: 15px">
+    <div style="text-align: center; margin-top: 40px; font-size: 15px; background-color : transparent">
         Converted MVC to REST Controller and JSP to React JS pages
     </div>
     </a>
     <a
     href="https://adityadeshlahre.github.io/resume/resume.pdf"
     style="
-        background-color: #fff;
+        background-color: #1c1c1c;
         border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 4px 8px rgba(142, 142, 142, 0.5);
         width: calc(50% - 10px);
         padding: 20px;
         cursor: pointer;
         position: relative;
         text-decoration: none;
-        color: #333;
+        color: inherit;
         transition: transform 0.3s ease;
     "
     onmouseover="this.style.transform='scale(1.05)';"
@@ -163,7 +166,7 @@ style="
         top: 10px;
         left: 10px;
         font-size: 14px;
-        color: #999;
+        background-color : transparent;
         "
     >
         FE DEV 1
@@ -175,11 +178,12 @@ style="
         right: 10px;
         font-size: 16px;
         font-weight: bold;
+        background-color : transparent;
         "
     >
         SellerSetu (Remote)
     </div>
-    <div style="text-align: center; margin-top: 40px; font-size: 15px">
+    <div style="text-align: center; margin-top: 40px; font-size: 15px; background-color : transparent">
         Check Resume For Better Idea about my work!
     </div>
     </a>
