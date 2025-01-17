@@ -6,6 +6,10 @@ title = "./Projects..."
 
 ## **_| Personal Projects |_**
 
+| Keno : baige piao : WS Game [[Github](https://github.com/adityadeshlahre/keon) , [Live](https://keno-web.onrender.com/)] |
+| :----------------------------------------------------------------------------------------------------------------------: |
+|    Keno is Webscoket based game build with React + WebSocket implementation : TO-PLAY :let it cold start first 50 sec    |
+
 | native-start [[Github](https://github.com/adityadeshlahre/remix-start) , [Live](https://native-start-web.onrender.com)] |
 | :---------------------------------------------------------------------------------------------------------------------: |
 |          react native apps + FULLSTACK app in JS EcoSystem based starter kit you can init using this template           |
