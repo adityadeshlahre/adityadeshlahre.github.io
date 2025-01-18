@@ -1,6 +1,5 @@
 +++
 title = "./Ways to Contact Me..."
-page_template = "index.html"
 +++
 
 <figure>

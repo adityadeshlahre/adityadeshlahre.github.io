@@ -1,6 +1,5 @@
 +++
 title = "./Logs..."
-page_template = "logs.html"
 +++
 
 <figure>
