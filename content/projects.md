@@ -10,9 +10,13 @@ title = "./Projects..."
 | :----------------------------------------------------------------------------------------------------------------------: |
 |    Keno is Webscoket based game build with React + WebSocket implementation : TO-PLAY :let it cold start first 50 sec    |
 
-| native-start [[Github](https://github.com/adityadeshlahre/remix-start) , [Live](https://native-start-web.onrender.com)] |
-| :---------------------------------------------------------------------------------------------------------------------: |
-|          react native apps + FULLSTACK app in JS EcoSystem based starter kit you can init using this template           |
+| tan-stack-start [[Github](https://github.com/adityadeshlahre/tan-stack-start) , [Live](https://tan-stack-start-full.onrender.com/)] |
+| :---------------------------------------------------------------------------------------------------------------------------------: |
+|         tan-stack-start app in JS EcoSystem based starter kit you can init using this template deployed using docker image          |
+
+| native-start [[Github](https://github.com/adityadeshlahre/native-start) , [Live](https://native-start-web.onrender.com)] |
+| :----------------------------------------------------------------------------------------------------------------------: |
+|           react native apps + FULLSTACK app in JS EcoSystem based starter kit you can init using this template           |
 
 | remix-start [[Github](https://github.com/adityadeshlahre/remix-start) , [Live](https://remix-start.onrender.com/)] |
 | :----------------------------------------------------------------------------------------------------------------: |
@@ -26,9 +30,9 @@ title = "./Projects..."
 | :-------------------------------------------------------------------------------------------------------------------: |
 |                    Simple react + node js application starter kit you can init using this template                    |
 
-| tarvander [[Github](https://github.com/adityadeshlahre/tarvander),[Live](https://tarvander.vercel.app/)] |
-| :------------------------------------------------------------------------------------------------------: |
-|   A full-stack project built on NextJs and tailwind css with simple responsiveness and payment gateway   |
+| tarvander [[Github](https://github.com/adityadeshlahre/tarvander) , [Live](https://tarvander.vercel.app/)] |
+| :--------------------------------------------------------------------------------------------------------: |
+|    A full-stack project built on NextJs and tailwind css with simple responsiveness and payment gateway    |
 
 | GSoC'24 [[Finall Project Report](https://gist.github.com/adityadeshlahre/ee28a4c6100788ae23196e8e2394738f)] |
 | :---------------------------------------------------------------------------------------------------------: |
