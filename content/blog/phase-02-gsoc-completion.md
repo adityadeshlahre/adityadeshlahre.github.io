@@ -5,7 +5,7 @@ date = 2024-08-25
 
 #### Phase 02 GSoC'2024 completion >>>>>>>>>>
 
-So from week one of GSoC [May 01 > August 25] I came to far slowlly and gradually building Admin Pages and Components one by one. I have completed the whole project Admin Routes Under time lint which i presented to my mentors and they were happy with the work.
+So from week one of GSoC [May 01 > August 25] I came to far slowlly and gradually building Admin Pages and Components one by one. I have completed the whole project Admin Routes Under time limit which i presented to my mentors and they were happy with the work.
 
 Initially Project seem to heavy but after understanding the code-base it been going with the flow.
 

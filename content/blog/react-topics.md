@@ -9,17 +9,17 @@ date = 2024-01-18
 
 - [x] useState
 - [x] useEffect
-- [ ] useMemo
-- [ ] useReffs
+- [x] useMemo
+- [x] useReffs
 - [x] Recoil
-- [ ] Prop Drilling
-- [ ] Context
+- [x] Prop Drilling
+- [x] Context
 - [x] Reconilation
 - [ ] Rendering
-- [ ] Hooks
-- [ ] CustomHooks
+- [x] Hooks
+- [x] CustomHooks
 - [ ] Writing Components
-- [ ] Context Api & Suspense Api
+- [x] Context Api & Suspense Api
 
 #### Good Things To Learn
 
