@@ -6,6 +6,18 @@ title = "./Projects..."
 
 ## **_| Personal Projects |_**
 
+| Mountain Side : River Side Clone 🔥 [[Github](https://github.com/adityadeshlahre/mountainside) , [Live](https://msqsweb.onrender.com/)] |
+| :-------------------------------------------------------------------------------------------------------------------------------------: |
+|                Mountain Side : River Side Clone : Records HD Video locally on User end Uplods to CLOUD for mainpulations                |
+
+| Ten Ten Open Source Android Applicaiton [[Github](https://github.com/adityadeshlahre/ten-ten-opensource) , [Live](https://github.com/adityadeshlahre/ten-ten-opensource)] |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                 Wallky Tallky Application on React Native                                                                 |
+
+| WQS : Web Socket Quick Start [[Github](https://github.com/adityadeshlahre/websocket-quick-start) , [Live](https://websocket-quick-start-web.onrender.com/)] |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                          Web Socket + ReactJS + ExpressJS + Node Starter Template full application                                          |
+
 | Keno : baige piao : WS Game [[Github](https://github.com/adityadeshlahre/keon) , [Live](https://keno-web.onrender.com/)] |
 | :----------------------------------------------------------------------------------------------------------------------: |
 |    Keno is Webscoket based game build with React + WebSocket implementation : TO-PLAY :let it cold start first 50 sec    |
