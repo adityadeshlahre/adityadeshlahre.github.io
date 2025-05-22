@@ -22,6 +22,14 @@ title = "./Projects..."
 | :----------------------------------------------------------------------------------------------------------------------: |
 |    Keno is Webscoket based game build with React + WebSocket implementation : TO-PLAY :let it cold start first 50 sec    |
 
+| Average BTC buy price checker of Address [[Github](https://github.com/adityadeshlahre/average-btc-buy-price-checker) , [Live](https://average-btc-buy-price-checker.vercel.app/)] |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                               API Key error : 4 Now : this web app check the average BTC buy price of Input Address                                               |
+
+| Search Auto Complete [[Github](https://github.com/adityadeshlahre/cearchautocomplete) , [Live](https://searchweb-3dcy.onrender.com/)] |
+| :-----------------------------------------------------------------------------------------------------------------------------------: |
+|                 This is just simple practice application which USES params and query to serach from the JSON-base API                 |
+
 | tan-stack-start [[Github](https://github.com/adityadeshlahre/tan-stack-start) , [Live](https://tan-stack-start-full.onrender.com/)] |
 | :---------------------------------------------------------------------------------------------------------------------------------: |
 |         tan-stack-start app in JS EcoSystem based starter kit you can init using this template deployed using docker image          |
