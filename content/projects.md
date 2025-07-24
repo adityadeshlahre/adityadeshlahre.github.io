@@ -18,7 +18,7 @@ title = "./Projects..."
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                          Web Socket + ReactJS + ExpressJS + Node Starter Template full application                                          |
 
-| Keno : baige piao : WS Game [[Github](https://github.com/adityadeshlahre/keon) , [Live](https://keno-web.onrender.com/)] |
+| Keno : baige piao : WS Game [[Github](https://github.com/adityadeshlahre/keno) , [Live](https://keno-web.onrender.com/)] |
 | :----------------------------------------------------------------------------------------------------------------------: |
 |    Keno is Webscoket based game build with React + WebSocket implementation : TO-PLAY :let it cold start first 50 sec    |
 
