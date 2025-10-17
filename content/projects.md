@@ -6,6 +6,30 @@ title = "./Projects..."
 
 ## **_| Personal Projects |_**
 
+| synthetic-ex-v2 [[Github](https://github.com/adityadeshlahre/synthetic-ex-v2), [Demo](https://www.youtube.com/watch?v=71kQ424iaoY)] |
+| :---------------------------------------------------------------------------------------------------------------------------------: |
+|                A synthetic exchange : Trading simulation a platform where we trade without and under lying platform                 |
+
+| synthetic-ex [[Github](https://github.com/adityadeshlahre/synthetic-ex), [Stats](https://www.youtube.com/watch?v=j-hQQIe7ywI), [Stats](https://www.youtube.com/watch?v=IWKLva5cJ2c)] |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                         A synthetic exchange : Trading simulation a platform where we trade without and under lying platform                                         |
+
+| prediction platform [[Github](https://github.com/adityadeshlahre/prediction-platform), [Demo](https://www.youtube.com/watch?v=zRrTNtnqacE)] |
+| :-----------------------------------------------------------------------------------------------------------------------------------------: |
+|                                    Prediction Platform : MVP in Go Lang Probo V1 Written IN Full GO Lang                                    |
+
+| payment-kit [[Github](https://github.com/adityadeshlahre/payment-kit), [Demo](https://www.youtube.com/watch?v=U9FlV0dMLN8)] |
+| :-------------------------------------------------------------------------------------------------------------------------: |
+|                                    A minimal starter kit with dodo payments integrated !                                    |
+
+| F8F [[Github](https://github.com/adityadeshlahre/f8f), [Demo](https://www.youtube.com/watch?v=oBaFGeXilY4)] |
+| :---------------------------------------------------------------------------------------------------------: |
+|                                         f8f : MVP clone of the n8n                                          |
+
+<!-- | logs-directory-api-redis-caching [[Github](https://github.com/adityadeshlahre/logs-directory-api-redis-caching)] |
+| :--------------------------------------------------------------------------------------------------------------: |
+|                        go-lang-learning : caching on fetch, pagination & search API calls                        | -->
+
 | Mountain Side : River Side Clone 🔥 [[Github](https://github.com/adityadeshlahre/mountainside) , [Live](https://msqsweb.onrender.com/)] |
 | :-------------------------------------------------------------------------------------------------------------------------------------: |
 |                Mountain Side : River Side Clone : Records HD Video locally on User end Uplods to CLOUD for mainpulations                |
