@@ -1,4 +1,5 @@
-{% extends "base.html" %} {% block content %}
-<h1 class="title">{{ page.title }}</h1>
-<h3 class="subtitle"><strong>{{ page.date }}</strong></h3>
-{{ page.content | safe }} {% endblock content %}
+{% extends "index.html" %}
+
+{% block main_content %}
+    {{ post_macros::content(page=page, extra=config.extra)}}
+{% endblock main_content %}

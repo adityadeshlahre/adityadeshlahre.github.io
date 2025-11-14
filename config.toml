@@ -1,36 +1,130 @@
 # The URL the site will be built for
-base_url = "https://adityadeshlahre.github.io"
+base_url = "https://aditya.ovh"
 
 # Whether to automatically compile all Sass files in the sass directory
-compile_sass = false
+compile_sass = true
+
+title = "Hello there"
+description = "I’m  ```Aditya-Deshlahre```  — I tinker with Linux, open source, AI, and code in TypeScript & Go. I focus on backend work, infra, deployments, and designing reliable systems."
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
+build_search_index = true
 
-# The default language
+taxonomies = [{ name = "tags" }]
+
 default_language = "en"
-
-title = "Aditya Zola"
-description = "A personal site built on zola. [Dark Theme]"
-# generate_feed = false
-
-taxonomies = [
-    {name = "categories", feed = true},
-    {name = "tags", feed = true},
-]
 
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
-highlight_theme = "1337"
+
+highlight_theme = "OneHalfLight"
 
 [extra]
-# Put all your custom variables here
-author = "aditya"
-menu = [
-    {url = "$BASE_URL", name = "Home"},
-    {url = "$BASE_URL/categories", name = "Categories"},
-    {url = "$BASE_URL/tags", name = "Tags"},
+
+mode = "toggle"
+
+useCDN = false
+
+favicon = "/icon/favicon.png"
+
+copyright = "A-D"
+
+katex_enable = true
+
+og_title = "Hello there"
+
+og_description = "I tinker with Linux, open source, AI, TypeScript, Go — backend, infra & systems."
+
+og_image = "/icon/og_image_more_clean.png"
+
+site_name = "Aditya"
+
+[extra.translations]
+languages = [{name = "en", url = "/"}]
+
+[[extra.translations.en]]
+show_more = "Read more ⟶"
+previous_page = "← Previous"
+next_page = "Next →"
+posted_on = "on "
+posted_by = "Published by"
+read_time = "minute read"
+all_tags = "All tags"
+menus = [
+    { name = "Home", url = "/", weight = 2 },
+    { name = "All posts", url = "/posts", weight = 2 },
+    { name = "About", url = "/about", weight = 3 },
+    { name = "Projects", url = "/projects", weight = 4 },
 ]
-title = "Pages"
+
+# config social icon info in the footer
+[[extra.social]]
+icon = "github"
+name = "GitHub"
+url = "https://github.com/adityadeshlahre/"
+
+[[extra.social]]
+icon = "twitter"
+name = "Twitter"
+url = "https://x.aditya.ovh/"
+
+[[extra.social]]
+icon = "linkedin"
+name = "LinkedIn"
+url = "https://l.aditya.ovh/"
+
+[[extra.social]]
+icon = "phone-call"
+name = "CalDotCom"
+url = "https://cal.com/adityadeshlahre/"
+
+[[extra.social]]
+icon = "mail"
+name = "Email"
+url = "mailto:wymaditya@gmail.com"
+
+[[extra.meta]]
+property = "og:title"
+content = "Hello there"
+
+[[extra.meta]]
+property = "og:description"
+content = "I tinker with Linux, open source, AI, TypeScript, Go — backend, infra, deployments & systems."
+
+[[extra.meta]]
+property = "og:site_name"
+content = "Aditya"
+
+[[extra.meta]]
+property = "og:image"
+content = "/icon/og_image_more_clean.png"
+
+[[extra.meta]]
+property = "og:type"
+content = "website"
+
+[[extra.meta]]
+property = "og:url"
+content = "https://aditya.ovh"
+
+[[extra.meta]]
+name = "twitter:card"
+content = "summary_large_image"
+
+[[extra.meta]]
+name = "twitter:title"
+content = "Hello there"
+
+[[extra.meta]]
+name = "twitter:description"
+content = "I tinker with Linux, open source, AI, TypeScript, Go — backend, infra & systems."
+
+[[extra.meta]]
+name = "twitter:image"
+content = "/icon/og_image_clean.png"
+
+[[extra.meta]]
+name = "twitter:creator"
+content = "@adityadeshlahre" 

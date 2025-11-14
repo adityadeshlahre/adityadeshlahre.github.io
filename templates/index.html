@@ -1,57 +1,60 @@
-{% extends "base.html" %} {% block content %}
-<div style="display: flex; flex-direction: column; text-align: center">
-  <p>
-    <b>Hey, I am <i>Aaaaaaadi</i>, a <i>Linux normie</i>.</b> This is my
-    website!
-    <br />
-    Currently learning backend & core concepts and contributing to
-    <i><b>Open Source</b></i
-    >.<br /><br />
-    >>> Do you think that this website is unattractive?<br />
-    It's
-    <a target="_blank" href="https://motherfuckingwebsite.com/">minimal</a> :]
-  </p>
-</div>
+{% import "macros/macros.html" as post_macros %}
 
-<div style="display: flex; align-items: center; justify-content: center">
-  <div style="padding: 20px; flex: 1 1 200px">
-    <img
-      src="https://raw.githubusercontent.com/adityadeshlahre/adityadeshlahre.github.io/master/static/me.png"
-      alt="myAvatar"
-      style="width: 200px; height: 200px"
-    />
-  </div>
+<!DOCTYPE html>
+<html lang="{{lang}}">
+{% include "partials/header.html" %}
 
-  <div style="flex: 1 1 300px">
-    <b>
-      <ul style="list-style-type: none; padding: 0; text-align: left">
-        Key points about me -
-      </ul>
-    </b>
-    <ul
-      style="list-style-type: none; padding: 0; text-align: left line-height: 1.6;"
-    >
-      <li>I Like Computer Science & Technology</li>
-      <li>Contributor @ Google Summer of Code 2024 & 25</li>
-      <li>
-        Frontend Lead /dev3/
-        <a href="https://github.com/I-TECH-UW/OpenELIS-Global-2/"
-          >@OpenELIS Global</a
-        >
-      </li>
-      <li>Trying to KeepThingsSimple</li>
-      <li>contributing to various Open-Source Apps</li>
-      <li>love's to listen punjabi song</li>
-      <li>night OWL</li>
-      <li>using linux/unix because of RAM problem</li>
-      <li>and yeah. I use ARCH BTW!</li>
-    </ul>
-    <b>
-      Ex: Frontend Dev I
-      <a href="https://sellersetu.in/">@SellerSetu</a>
-    </b>
-    <br />
-  </div>
-</div>
+<body>
+    <div class="content">
+        {% include "partials/head.html" %}
 
-{% endblock content %}
+        {% block main_content %}
+        <main class="list">
+            <div class="site-description">
+                {% if config.description %}
+                    {{ config.description | markdown | safe }}
+                {% endif %}
+            </div>
+
+            {%- if paginator %}
+                {%- set show_pages = paginator.pages -%}
+            {% else %}
+                {% set section = get_section(path="posts/_index.md") %}
+                {%- set show_pages = section.pages -%}
+            {% endif -%}
+
+            {{ post_macros::list_posts(pages=show_pages, extra=config.extra) }}
+        </main>
+
+        {% if paginator %}
+            <ul class="pagination">
+                {% if paginator.previous %}
+                    <span class="page-item page-prev">
+                        <a href={{ paginator.previous }} class="page-link" aria-label="Previous"><span aria-hidden="true">{{ config.extra.translations[lang][0].previous_page }}</span></a>
+                    </span>
+                {% endif %}
+
+                {% if paginator.next %}
+                    <span class="page-item page-next">
+                        <a href={{ paginator.next }} class="page-link" aria-label="Next"><span aria-hidden="true">{{ config.extra.translations[lang][0].next_page }}</span></a>
+                    </span>
+                {% endif %}
+            </ul>
+        {% endif %}
+
+        {% endblock main_content %}
+
+        {% include "partials/footer.html" %}
+        <script>
+            document.addEventListener("click", (e) => {
+                const target = e.target.closest("[data-copy]");
+                if (!target) return;
+                e.preventDefault();
+                navigator.clipboard.writeText(target.getAttribute("data-copy"));
+            });
+        </script>
+
+    </div>
+</body>
+
+</html>

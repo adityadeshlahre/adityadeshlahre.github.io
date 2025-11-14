@@ -1,2 +1,4 @@
 public/
-themes/
+themes/*
+.vscode/
+.DS_Store
