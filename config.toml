@@ -1,16 +1,19 @@
 # The URL the site will be built for
-base_url = "https://aditya.ovh"
+base_url = "https://adityadeshlahre.github.io"
 
 # Whether to automatically compile all Sass files in the sass directory
-compile_sass = true
+compile_sass = false
 
 title = "Hello there"
 description = "I’m  ```Aditya-Deshlahre```  — I tinker with Linux, open source, AI, and code in TypeScript & Go. I focus on backend work, infra, deployments, and designing reliable systems."
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
+build_search_index = false
 
-taxonomies = [{ name = "tags" }]
+taxonomies = [
+    {name = "categories", feed = true},
+    {name = "tags", feed = true},
+]
 
 default_language = "en"
 
