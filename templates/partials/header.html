@@ -6,7 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% if config.extra.meta or page.extra.meta %}
         <!-- the meta data config goes here  -->
-        {% set all_meta = (config.extra.meta | default(value=[])) + (page.extra.meta | default(value=[])) %}
+        {% set config_meta = config.extra.meta | default(value=[]) %}
+        {% set page_meta = page.extra.meta | default(value=[]) %}
+        {% set all_meta = config_meta | concat(with=page_meta) %}
         {% for data in all_meta %}
             <meta
                 {% for key, value in data%}
