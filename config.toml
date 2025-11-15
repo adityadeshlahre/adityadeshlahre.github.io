@@ -5,7 +5,7 @@ base_url = "https://adityadeshlahre.github.io"
 compile_sass = false
 
 title = "Hello there"
-description = "I’m  ```Aditya-Deshlahre```  — I tinker with Linux, open source, AI, and code in TypeScript & Go. I focus on backend work, infra, deployments, and designing reliable systems."
+description = "I’m  ```Aditya Deshlahre```  — I tinker with Linux, open source, AI, and code in TypeScript & Go. I focus on backend work, infra, deployments, and designing reliable systems."
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
@@ -42,7 +42,7 @@ og_title = "Hello there"
 
 og_description = "I tinker with Linux, open source, AI, TypeScript, Go — backend, infra & systems."
 
-og_image = "/icon/og_image_more_clean.png"
+og_image = "/icon/ogimage.png"
 
 site_name = "Aditya"
 
@@ -60,8 +60,10 @@ all_tags = "All tags"
 menus = [
     { name = "Home", url = "/", weight = 2 },
     { name = "Projects", url = "/projects", weight = 4 },
+    { name = "Resumse", url = "https://drive.google.com/file/d/1OVdi_4yPk0xKglRnTQKG6sLKo9Zq7QRb/view", weight = 3},
+    { name = "Work", url = "https://dub.sh/proved", weight = 2 },
     { name = "About", url = "/about", weight = 3 },
-    { name = "All posts", url = "/posts", weight = 2 },
+    { name = "Blogs", url = "/posts", weight = 2 },
 ]
 
 # config social icon info in the footer
@@ -104,7 +106,7 @@ content = "Aditya"
 
 [[extra.meta]]
 property = "og:image"
-content = "/icon/og_image_more_clean.png"
+content = "/icon/ogimage.png"
 
 [[extra.meta]]
 property = "og:type"
@@ -128,7 +130,7 @@ content = "I tinker with Linux, open source, AI, TypeScript, Go — backend, inf
 
 [[extra.meta]]
 name = "twitter:image"
-content = "/icon/og_image_clean.png"
+content = "/icon/ogimage.png"
 
 [[extra.meta]]
 name = "twitter:creator"
