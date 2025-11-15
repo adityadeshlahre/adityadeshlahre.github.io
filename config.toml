@@ -17,6 +17,8 @@ taxonomies = [
 
 default_language = "en"
 
+generate_robots_txt = true
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -57,9 +59,9 @@ read_time = "minute read"
 all_tags = "All tags"
 menus = [
     { name = "Home", url = "/", weight = 2 },
-    { name = "All posts", url = "/posts", weight = 2 },
-    { name = "About", url = "/about", weight = 3 },
     { name = "Projects", url = "/projects", weight = 4 },
+    { name = "About", url = "/about", weight = 3 },
+    { name = "All posts", url = "/posts", weight = 2 },
 ]
 
 # config social icon info in the footer
@@ -110,7 +112,7 @@ content = "website"
 
 [[extra.meta]]
 property = "og:url"
-content = "https://aditya.ovh"
+content = "https://adityadeshlahre.github.io"
 
 [[extra.meta]]
 name = "twitter:card"
