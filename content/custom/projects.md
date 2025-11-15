@@ -1,4 +1,5 @@
 +++
+title = "cool stuff i built over the time"
 date = "2024-02-26"
 path = "projects"
 +++
