@@ -32,7 +32,7 @@ mode = "toggle"
 
 useCDN = false
 
-favicon = "/icon/favicon.png"
+favicon = "https://adityadeshlahre.github.io/icon/favicon.png"
 
 copyright = "A-D"
 
@@ -42,7 +42,7 @@ og_title = "Hello there"
 
 og_description = "I tinker with Linux, open source, AI, TypeScript, Go — backend, infra & systems."
 
-og_image = "/icon/ogimage.png"
+og_image = "https://adityadeshlahre.github.io/icon/ogimage.png"
 
 site_name = "Aditya"
 
@@ -106,7 +106,7 @@ content = "Aditya"
 
 [[extra.meta]]
 property = "og:image"
-content = "/icon/ogimage.png"
+content = "https://adityadeshlahre.github.io/icon/ogimage.png"
 
 [[extra.meta]]
 property = "og:type"
@@ -130,7 +130,7 @@ content = "I tinker with Linux, open source, AI, TypeScript, Go — backend, inf
 
 [[extra.meta]]
 name = "twitter:image"
-content = "/icon/ogimage.png"
+content = "https://adityadeshlahre.github.io/icon/ogimage.png"
 
 [[extra.meta]]
 name = "twitter:creator"
