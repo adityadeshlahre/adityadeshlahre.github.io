@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {% if page.extra.meta %}
+    {% if config.extra.meta or page.extra.meta %}
         <!-- the meta data config goes here  -->
-        {% for data in page.extra.meta %}
+        {% set all_meta = (config.extra.meta | default(value=[])) + (page.extra.meta | default(value=[])) %}
+        {% for data in all_meta %}
             <meta
                 {% for key, value in data%}
                     {% if key == "property" and value == "og:title"%}
@@ -17,6 +18,21 @@
                     {% endif %}
                     {% if key == "name" and value == "description"%}
                         {% set_global page_has_description = true -%}
+                    {% endif %}
+                    {% if key == "property" and value == "og:image"%}
+                        {% set_global page_has_og_image = true -%}
+                    {% endif %}
+                    {% if key == "name" and value == "twitter:title"%}
+                        {% set_global page_has_twitter_title = true -%}
+                    {% endif %}
+                    {% if key == "name" and value == "twitter:description"%}
+                        {% set_global page_has_twitter_description = true -%}
+                    {% endif %}
+                    {% if key == "name" and value == "twitter:image"%}
+                        {% set_global page_has_twitter_image = true -%}
+                    {% endif %}
+                    {% if key == "name" and value == "twitter:creator"%}
+                        {% set_global page_has_twitter_creator = true -%}
                     {% endif %}
                     {{ key }}="{{ value }}"
                 {% endfor %}
@@ -43,13 +59,49 @@
         {% endif %}
     {% endif %}
 
-    {% if not page_has_og_description %}
-        {% if page.description %}
-            <meta property="og:description" content="{{ page.description }}" />
-        {% elif config.description %}
-            <meta property="og:description" content="{{ config.description }}" />
-        {% endif %}
-    {% endif %}
+     {% if not page_has_og_description %}
+         {% if page.description %}
+             <meta property="og:description" content="{{ page.description }}" />
+         {% elif config.description %}
+             <meta property="og:description" content="{{ config.description }}" />
+         {% endif %}
+     {% endif %}
+
+     {% if not page_has_og_image %}
+         {% if page.extra.og_image %}
+             <meta property="og:image" content="{{ page.extra.og_image }}" />
+         {% elif config.extra.og_image %}
+             <meta property="og:image" content="{{ config.extra.og_image }}" />
+         {% endif %}
+     {% endif %}
+
+     {% if not page_has_twitter_title %}
+         <meta name="twitter:title" content="{% if page.title -%}{{ page.title }}{% elif config.title -%}{{ config.title }}{% else -%}Post{% endif -%}" />
+     {% endif %}
+
+     {% if not page_has_twitter_description %}
+         {% if page.description %}
+             <meta name="twitter:description" content="{{ page.description }}" />
+         {% elif config.description %}
+             <meta name="twitter:description" content="{{ config.description }}" />
+         {% endif %}
+     {% endif %}
+
+     {% if not page_has_twitter_image %}
+         {% if page.extra.twitter_image %}
+             <meta name="twitter:image" content="{{ page.extra.twitter_image }}" />
+         {% elif config.extra.twitter_image %}
+             <meta name="twitter:image" content="{{ config.extra.twitter_image }}" />
+         {% endif %}
+     {% endif %}
+
+     {% if not page_has_twitter_creator %}
+         {% if page.extra.twitter_creator %}
+             <meta name="twitter:creator" content="{{ page.extra.twitter_creator }}" />
+         {% elif config.extra.twitter_creator %}
+             <meta name="twitter:creator" content="{{ config.extra.twitter_creator }}" />
+         {% endif %}
+     {% endif %}
 
     {% if not page_has_description %}
         {% if page.description %}
