@@ -44,6 +44,8 @@ og_description = "I tinker with Linux, open source, AI, TypeScript, Go — backe
 
 og_image = "https://adityadeshlahre.github.io/icon/ogimage.png"
 
+og_logo = "https://adityadeshlahre.github.io/icon/oglogo.png"
+
 site_name = "Aditya"
 
 [extra.translations]

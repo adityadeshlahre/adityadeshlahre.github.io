@@ -77,6 +77,10 @@
          {% endif %}
      {% endif %}
 
+      {% if config.extra.og_logo %}
+          <meta property="og:logo" content="{{ config.extra.og_logo }}" />
+      {% endif %}
+
      {% if not page_has_twitter_title %}
          <meta name="twitter:title" content="{% if page.title -%}{{ page.title }}{% elif config.title -%}{{ config.title }}{% else -%}Post{% endif -%}" />
      {% endif %}

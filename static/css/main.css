@@ -420,13 +420,13 @@ table {
 
 table th {
   padding: 6px 13px;
-  border: 1px solid #dfe2e5;
+  border: 0.5px solid #767676;
   font-size: large;
 }
 
 table td {
   padding: 6px 13px;
-  border: 1px solid #dfe2e5;
+  border: 0.5px solid #767676;
 }
 
 .footnote-definition {
