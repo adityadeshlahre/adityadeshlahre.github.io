@@ -62,7 +62,7 @@ all_tags = "All tags"
 menus = [
     { name = "Home", url = "/", weight = 2 },
     { name = "Projects", url = "/projects", weight = 4 },
-    { name = "Resumse", url = "https://drive.google.com/file/d/1OVdi_4yPk0xKglRnTQKG6sLKo9Zq7QRb/view", weight = 3},
+    { name = "Resume", url = "https://drive.google.com/file/d/1OVdi_4yPk0xKglRnTQKG6sLKo9Zq7QRb/view", weight = 3},
     { name = "Work", url = "https://dub.sh/proved", weight = 2 },
     { name = "About", url = "/about", weight = 3 },
     { name = "Blogs", url = "/posts", weight = 2 },
