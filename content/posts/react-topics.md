@@ -16,11 +16,11 @@ author = { name = "Aditya", social= "https://g.aditya.ovh" }
 - [x] useState
 - [x] useEffect
 - [x] useMemo
-- [x] useReffs
+- [x] useRefs
 - [x] Recoil
 - [x] Prop Drilling
 - [x] Context
-- [x] Reconilation
+- [x] Reconciliation
 - [ ] Rendering
 - [x] Hooks
 - [x] CustomHooks
@@ -31,13 +31,13 @@ author = { name = "Aditya", social= "https://g.aditya.ovh" }
 
 > State Management Tools
 
-- [ ] Routing React Specifec
+- [ ] Routing React Specific
 
-> Performence Improvement jargons
+> Performance Improvement jargons
 
 - React Hook Form / Formik
 
-> Backend Specifec Topics
+> Backend Specific Topics
 
 - SWR / React Query
 

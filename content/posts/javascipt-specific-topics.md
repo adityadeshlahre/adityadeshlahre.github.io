@@ -14,7 +14,7 @@ author = { name = "Aditya", social= "https://g.aditya.ovh" }
 #### I ignored this TOPICS which are extremely important before diving to REACT !
 
 - [x] Arrays
-- [x] Arow Functions
+- [x] Arrow Functions
 - [x] Objects
 - [ ] Maps [HighOnWork]
 - [x] Filtering
@@ -23,4 +23,4 @@ author = { name = "Aditya", social= "https://g.aditya.ovh" }
 
 #### Not javascript specific but yes must do this!
 
-- [ ] Reconcilation [MOST-IMPOTENT]
+- [ ] Reconciliation [MOST-IMPORTANT]
