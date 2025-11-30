@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Hello there - personal</title>
+    <subtitle>I’m  ```Aditya Deshlahre```  — I tinker with Linux, open source, AI, and code in TypeScript &amp; Go. I focus on backend work, infra, deployments, and designing reliable systems.</subtitle>
+    <link href="https://adityadeshlahre.github.io/tags/personal/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://adityadeshlahre.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-11-27T00:00:00+00:00</updated>
+    <id>https://adityadeshlahre.github.io/tags/personal/atom.xml</id>
+    <entry xml:lang="en">
+        <title>7th to 12th Year of a Dev</title>
+        <published>2025-11-27T00:00:00+00:00</published>
+        <updated>2025-11-27T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/posts/time-of-a-dev/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/posts/time-of-a-dev/</id>
+        
+        <content type="html">&lt;h3 id=&quot;best-years-of-a-dev&quot;&gt;Best years of a dev&lt;&#x2F;h3&gt;
+&lt;p&gt;Let&#x27;s suppose a developer starts his career at the age of 16 and the current year is 2025, then the best years of a dev are from the 7th to 12th year of their career which is 2032 to 2037.&lt;&#x2F;p&gt;
+&lt;p&gt;Last few years I have been seeing that most senior developers and engineers are in their 7th to 12th year of their career and they are enjoying it.&lt;&#x2F;p&gt;
+&lt;p&gt;A junior developer who started at 16, after grinding for 2-3 years will get a job and after that on the 7th year of their career they will be enjoying their career. Because now they have 2-3 years of experience and they have been working on real projects and they have been learning new things and growing their career.&lt;&#x2F;p&gt;
+&lt;p&gt;I cannot name them here! But it&#x27;s been a while I follow them and observe them unconditionally.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;&#x2F;strong&gt; It&#x27;s just my general observation and I am not sure if it is true or not. But somehow it feels true to me.&lt;&#x2F;p&gt;
+&lt;p&gt;Thank You!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

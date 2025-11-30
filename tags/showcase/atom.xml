@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Hello there - showcase</title>
+    <subtitle>I’m  ```Aditya Deshlahre```  — I tinker with Linux, open source, AI, and code in TypeScript &amp; Go. I focus on backend work, infra, deployments, and designing reliable systems.</subtitle>
+    <link href="https://adityadeshlahre.github.io/tags/showcase/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://adityadeshlahre.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-05-03T00:00:00+00:00</updated>
+    <id>https://adityadeshlahre.github.io/tags/showcase/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Got Selected For GSoC 2025</title>
+        <published>2025-05-03T00:00:00+00:00</published>
+        <updated>2025-05-03T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/posts/gsoc-2025/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/posts/gsoc-2025/</id>
+        
+        <content type="html">&lt;h4 id=&quot;gsoc-2025&quot;&gt;GSoC&#x27;2025&lt;&#x2F;h4&gt;
+&lt;p&gt;So this year &lt;strong&gt;&lt;em&gt;2025&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;, I applied to the organization &lt;strong&gt;&lt;em&gt;The OpenELIS Global Foundation&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; for the second time. Later on got disclosed with the project in November 2024 which was a good point where anyone can start contributing and beat me with their skills!&lt;&#x2F;p&gt;
+&lt;p&gt;This time our organization is coming up with 7 projects this year. One of them is &lt;strong&gt;Rewrite Test Management &amp;amp; Components JSP to ReactJS&lt;&#x2F;strong&gt;. This time I was already familiar with the codebase and quite confident in my work.&lt;&#x2F;p&gt;
+&lt;p&gt;So submitting a proposal was a must, hence after continuous contributions over 1.2 years, I submitted a proposal and there was less competition this time also because even though the project was disclosed too early.&lt;&#x2F;p&gt;
+&lt;figure style=&quot;text-align: center;&quot;&gt;
+    &lt;img src=&quot;&#x2F;images&#x2F;gsoc2.png&quot; alt=&quot;gsoc-image&quot; style=&quot;max-width:500px; max-height:500px;&quot;&gt;
+    &lt;figcaption style=&quot;text-align: center; font-size:24px;&quot;&gt;&lt;a style=&quot;text-decoration: none;&quot; href=&quot;https:&#x2F;&#x2F;summerofcode.withgoogle.com&#x2F;programs&#x2F;2025&#x2F;projects&#x2F;66IXZZXq&quot;&gt;My Name at Google&#x27;s Website for the 2nd Time!&lt;&#x2F;a&gt;&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;On &lt;strong&gt;Date: 2025-05-01 at 18:00 UTC &amp;amp; 23:10 IST&lt;&#x2F;strong&gt; there was mail in my inbox of getting selected in &lt;strong&gt;&lt;em&gt;Google Summer of Code 2025&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; for the second time.&lt;&#x2F;p&gt;
+&lt;p&gt;Thank You!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Phase 02 Completed of GSoC 2024</title>
+        <published>2024-08-25T00:00:00+00:00</published>
+        <updated>2024-08-25T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/posts/phase-02-gsoc-completion/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/posts/phase-02-gsoc-completion/</id>
+        
+        <content type="html">&lt;h4 id=&quot;phase-02-gsoc-2024-completion&quot;&gt;Phase 02 GSoC&#x27;2024 completion &amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;So from week one of GSoC [May 01 &amp;gt; August 25] I came so far slowly and gradually building Admin Pages and Components one by one. I have completed the whole project Admin Routes under the time limit which I presented to my mentors and they were happy with the work.&lt;&#x2F;p&gt;
+&lt;p&gt;Initially the project seemed heavy but after understanding the codebase it&#x27;s been going with the flow.&lt;&#x2F;p&gt;
+&lt;p&gt;I have 2-3 weeks left so I eventually started working on different Test Management related pages and ended up making 2-3 more pages out of my project.&lt;&#x2F;p&gt;
+&lt;p&gt;Eventually This is how my GSoC 2024 was Under Organization OpenELIS Global.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;adityadeshlahre&#x2F;ee28a4c6100788ae23196e8e2394738f&quot;&gt;check out my work here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Thank You!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Phase 01 Completed of GSoC 2024</title>
+        <published>2024-07-08T00:00:00+00:00</published>
+        <updated>2024-07-08T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/posts/phase-01-gsoc/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/posts/phase-01-gsoc/</id>
+        
+        <content type="html">&lt;h4 id=&quot;phase-01-gsoc-2024&quot;&gt;Phase 01 GSoC&#x27;2024 &amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;So unlike other contributors, I was going through &lt;strong&gt;Community Bonding Phase&lt;&#x2F;strong&gt; &lt;em&gt;[date: 1 May &amp;gt; 27 May]&lt;&#x2F;em&gt; where mostly contributors communicate more about their project to their project admin. I also did the same things, talked to my mentor &lt;strong&gt;Mr Cliff Gita&lt;&#x2F;strong&gt;. We have set up weekly meetings on Friday (eventually it didn&#x27;t work out) so every week I present my work and updates to my mentors and similar things I do in THU&#x27;s community meetings too.&lt;&#x2F;p&gt;
+&lt;p&gt;Biggest support in the whole PHASE 01 on contributions was from &lt;strong&gt;Mr Moses Mutesasira&lt;&#x2F;strong&gt; in every take. He supported us in debugging and making things clear as well. Eventually he started giving extra time to community calls. Hence that was very helpful for faster development &lt;strong&gt;:)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Also whenever I have some specific doubts we connect on SLACK HUDDLES for faster development and debugging and fixes!&lt;&#x2F;p&gt;
+&lt;p&gt;All i wanted to say till now i had a best experience in OPENELIS foundation and working here toooo.....&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;some-serious-things&quot;&gt;:::::::::::: Some Serious things ::::::::::::&lt;&#x2F;h3&gt;
+&lt;p&gt;To see my week by week updates you can follow up here : &lt;a href=&quot;https:&#x2F;&#x2F;talk.openelis-global.org&#x2F;t&#x2F;gsoc-2024-rewrite-admin-page-components-from-jsp-to-react&#x2F;729&quot;&gt;Main Thread&lt;&#x2F;a&gt; This will take you to our forum where we talk some serious stuff.&lt;&#x2F;p&gt;
+&lt;p&gt;To directly reach my PRs : &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;I-TECH-UW&#x2F;OpenELIS-Global-2&#x2F;pulls?q=is%3Apr+author%3Aadityadeshlahre&quot;&gt;Click Here&lt;&#x2F;a&gt; It will take you GITHUB and hence you can check my work!&lt;&#x2F;p&gt;
+&lt;p&gt;Thank You!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Got Selected For GSoC 2024</title>
+        <published>2024-05-03T00:00:00+00:00</published>
+        <updated>2024-05-03T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/posts/gsoc-2024/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/posts/gsoc-2024/</id>
+        
+        <content type="html">&lt;h4 id=&quot;gsoc-2024&quot;&gt;GSoC&#x27;2024&lt;&#x2F;h4&gt;
+&lt;p&gt;So this year &lt;strong&gt;&lt;em&gt;2024&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;, I started contributing to an organization called &lt;strong&gt;&lt;em&gt;The OpenELIS Global Foundation&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; in January. Later on got to know this organization will be coming up in GSoC this year. After knowing this, I got super pumped and started contributing very aggressively.&lt;&#x2F;p&gt;
+&lt;p&gt;This organization is coming up with 6 projects this year. One of them is &lt;strong&gt;Rewrite Admin Pages &amp;amp; Components JSP to ReactJS&lt;&#x2F;strong&gt;. I was already familiar with ReactJS and quite confident on it.&lt;&#x2F;p&gt;
+&lt;p&gt;So submitting a proposal was a must, hence after aggressive contributing in the time frame of JAN-APRIL months, I submitted a proposal and there was less competition because this organization is coming for the first time in GSoC.&lt;&#x2F;p&gt;
+&lt;figure style=&quot;text-align: center;&quot;&gt;
+    &lt;img src=&quot;&#x2F;images&#x2F;gsoc.png&quot; alt=&quot;gsoc-image&quot; style=&quot;max-width:500px; max-height:500px;&quot;&gt;
+    &lt;figcaption style=&quot;text-align: center; font-size:24px;&quot;&gt;&lt;a style=&quot;text-decoration: none;&quot; href=&quot;https:&#x2F;&#x2F;summerofcode.withgoogle.com&#x2F;programs&#x2F;2024&#x2F;projects&#x2F;66IXZZXq&quot;&gt;My Name at Google&#x27;s Website!&lt;&#x2F;a&gt;&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;On &lt;strong&gt;Date: 2024-05-01 at 18:00 UTC &amp;amp; 22:00 IST&lt;&#x2F;strong&gt; there was mail in my inbox of getting selected in &lt;strong&gt;&lt;em&gt;Google Summer of Code 2024&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;And knowingly this is a 20th Year of GSoC happening&lt;&#x2F;p&gt;
+&lt;p&gt;Thank You!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>GPU Passthrough</title>
+        <published>2024-04-10T00:00:00+00:00</published>
+        <updated>2024-04-10T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/posts/gpu-passthrough/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/posts/gpu-passthrough/</id>
+        
+        <content type="html">&lt;h3 id=&quot;gpu-passthrough-qemu-kvm-vifo-pci&quot;&gt;GPU Passthrough [qemu-kvm-vifo-pci]&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;an-unsuccessful-attempt&quot;&gt;[An unsuccessful attempt]&lt;&#x2F;h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Example&#x2F;Explanation Demo Video &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=dtkC_RnC7fE&quot;&gt;here&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;This video is so amazing, once you watch it you will love how seamlessly you can switch between Linux to Windows VM. Which is passed through your GPU output and getting displayed on the monitor and running parallel via a single setup!&lt;&#x2F;p&gt;
+&lt;p&gt;I tried to do the same thing with my laptop which is [Acer-Aspire-07-5500U-1650gtxGPU]!&lt;&#x2F;p&gt;
+&lt;p&gt;As a tech nerd I did all the research: YouTube, documentation, vfio, PCI outputs and everything.&lt;&#x2F;p&gt;
+&lt;p&gt;I moved towards the configuring my laptop and found out that my HDMI output is connected to my &lt;strong&gt;AMD-i-gpu&lt;&#x2F;strong&gt; not the dedicated &lt;strong&gt;1650-d-gtx-GPU&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Suddenly I started hating my laptop choice but later on I got to know about &lt;strong&gt;Single-GPU&lt;&#x2F;strong&gt; passthrough but this time.&lt;&#x2F;p&gt;
+&lt;p&gt;I Found out that &lt;strong&gt;Internal-GPUs&lt;&#x2F;strong&gt; are not capable of it.&lt;&#x2F;p&gt;
+&lt;p&gt;The video&#x2F;point I got jealous at is &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=TU1T8V315Bc&quot;&gt;here&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;take-aways&quot;&gt;Take Aways&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;don&#x27;t Know&lt;&#x2F;li&gt;
+&lt;li&gt;just learn stuff&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Later on I left researching about thing and thought of building my own PC!
+But this is another &lt;em&gt;pain in the butt&lt;&#x2F;em&gt; so watched some videos and realized this will cost money so left research here...&lt;&#x2F;p&gt;
+&lt;p&gt;WOW so much time i wasted........! dammmm bro &lt;strong&gt;NOT&lt;&#x2F;strong&gt; on research &lt;strong&gt;BUT&lt;&#x2F;strong&gt; on watching videos.&lt;&#x2F;p&gt;
+&lt;p&gt;and this is &lt;strong&gt;&lt;em&gt;An unsuccessful attempt&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; of GPU passthrough.&lt;&#x2F;p&gt;
+&lt;p&gt;Thank You!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>JavaScript Topics I MISSED</title>
+        <published>2024-01-23T00:00:00+00:00</published>
+        <updated>2024-01-23T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/posts/javascipt-specific-topics/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/posts/javascipt-specific-topics/</id>
+        
+        <content type="html">&lt;h3 id=&quot;javascript-topics-must-learn&quot;&gt;JavaScript Topics [ MUST LEARN ]&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;i-ignored-this-topics-which-are-extremely-important-before-diving-to-react&quot;&gt;I ignored this TOPICS which are extremely important before diving to REACT !&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Arrays&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Arrow Functions&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Objects&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Maps [HighOnWork]&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Filtering&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Destructuring&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Mutability&#x2F;Immutability&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;not-javascript-specific-but-yes-must-do-this&quot;&gt;Not javascript specific but yes must do this!&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Reconciliation [MOST-IMPORTANT]&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
