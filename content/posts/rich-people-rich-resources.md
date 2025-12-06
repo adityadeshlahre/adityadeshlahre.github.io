@@ -7,6 +7,7 @@ tags = ["personal", "thinking"]
 
 [extra]
 author = { name = "Aditya", social= "https://g.aditya.ovh" }
+comments = true
 +++
 
 ### Rich People Rich Resources
