@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Hello there - learning</title>
+    <subtitle>I’m  ```Aditya Deshlahre```  — I tinker with Linux, open source, AI, and code in TypeScript &amp; Go. I focus on backend work, infra, deployments, and designing reliable systems.</subtitle>
+    <link href="https://adityadeshlahre.github.io/tags/learning/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://adityadeshlahre.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-11-23T00:00:00+00:00</updated>
+    <id>https://adityadeshlahre.github.io/tags/learning/atom.xml</id>
+    <entry xml:lang="en">
+        <title>IDEA: Hire Some One To Get Hired</title>
+        <published>2025-11-23T00:00:00+00:00</published>
+        <updated>2025-11-23T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/posts/hire-someone/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/posts/hire-someone/</id>
+        
+        <content type="html">&lt;h3 id=&quot;idea&quot;&gt;Idea&lt;&#x2F;h3&gt;
+&lt;p&gt;Hire Some One To Get Hired&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Feels weird right!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Past couple of months I have been thinking of getting hired or trying to get hired by some Remote companies. &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Remember the word &amp;quot;Remote&amp;quot; Here&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;I wasn&#x27;t getting any interview calls or any referrals on tech twitter space which is a bit weird for my profile. Despite the fact my &lt;a href=&quot;https:&#x2F;&#x2F;p.aditya.ovh&quot;&gt;proof of work&lt;&#x2F;a&gt; is too strong (that is what I think, other opinions don&#x27;t matter to me) and I have been active on tech twitter&#x2F;x space for the past 2 months. Still don&#x27;t know what was happening to either the market or twitter&#x2F;x account outreach.&lt;&#x2F;p&gt;
+&lt;p&gt;So, I started thinking of hiring someone to get hired. Maybe it feels dumb but it&#x27;s just an idea and I am not sure if it will work or not. But I can hire a simple guy who has access to all my resources and references and access to all my social accounts and instead of me doing all the work, he can do it for me. I am talking about cold outreach, DMing, etc. Right!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;What do you think of this idea ??&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;And please don&#x27;t talk about AI or any sort of tooling or automations! No, I wouldn&#x27;t allow that much access to it or don&#x27;t want something that I cannot control.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;How&#x27;s the idea?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;PS: I am still looking for Job&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Thank You!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Aws Services I wanted to learn!</title>
+        <published>2025-04-22T00:00:00+00:00</published>
+        <updated>2025-04-22T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/posts/aws-services/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/posts/aws-services/</id>
+        
+        <content type="html">&lt;p&gt;In 2025 or SOON, I want to focus on deployment in AWS as cloud and K8s as Services Layer&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+EC2&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Amazon Elastic Beanstalk || AWS App Runner || AWS Amplify&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+CloudFront&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+S3 {bucket large location storing files}&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+LAMBDA {running functions without infrastructure : triggering}&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+SQS {queues}&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+SNS {}&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+CloudWatch {logs viewing}&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+DynamoDB || RDS&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Elastic Container Service {Fargate : docker images}&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+EKS {k8s deployment}&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+IAM Dashboard&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+RouteS3 {DOMAIN DNS}&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>GPU Passthrough</title>
+        <published>2024-04-10T00:00:00+00:00</published>
+        <updated>2024-04-10T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/posts/gpu-passthrough/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/posts/gpu-passthrough/</id>
+        
+        <content type="html">&lt;h3 id=&quot;gpu-passthrough-qemu-kvm-vifo-pci&quot;&gt;GPU Passthrough [qemu-kvm-vifo-pci]&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;an-unsuccessful-attempt&quot;&gt;[An unsuccessful attempt]&lt;&#x2F;h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Example&#x2F;Explanation Demo Video &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=dtkC_RnC7fE&quot;&gt;here&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;This video is so amazing, once you watch it you will love how seamlessly you can switch between Linux to Windows VM. Which is passed through your GPU output and getting displayed on the monitor and running parallel via a single setup!&lt;&#x2F;p&gt;
+&lt;p&gt;I tried to do the same thing with my laptop which is [Acer-Aspire-07-5500U-1650gtxGPU]!&lt;&#x2F;p&gt;
+&lt;p&gt;As a tech nerd I did all the research: YouTube, documentation, vfio, PCI outputs and everything.&lt;&#x2F;p&gt;
+&lt;p&gt;I moved towards the configuring my laptop and found out that my HDMI output is connected to my &lt;strong&gt;AMD-i-gpu&lt;&#x2F;strong&gt; not the dedicated &lt;strong&gt;1650-d-gtx-GPU&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Suddenly I started hating my laptop choice but later on I got to know about &lt;strong&gt;Single-GPU&lt;&#x2F;strong&gt; passthrough but this time.&lt;&#x2F;p&gt;
+&lt;p&gt;I Found out that &lt;strong&gt;Internal-GPUs&lt;&#x2F;strong&gt; are not capable of it.&lt;&#x2F;p&gt;
+&lt;p&gt;The video&#x2F;point I got jealous at is &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=TU1T8V315Bc&quot;&gt;here&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;take-aways&quot;&gt;Take Aways&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;don&#x27;t Know&lt;&#x2F;li&gt;
+&lt;li&gt;just learn stuff&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Later on I left researching about thing and thought of building my own PC!
+But this is another &lt;em&gt;pain in the butt&lt;&#x2F;em&gt; so watched some videos and realized this will cost money so left research here...&lt;&#x2F;p&gt;
+&lt;p&gt;WOW so much time i wasted........! dammmm bro &lt;strong&gt;NOT&lt;&#x2F;strong&gt; on research &lt;strong&gt;BUT&lt;&#x2F;strong&gt; on watching videos.&lt;&#x2F;p&gt;
+&lt;p&gt;and this is &lt;strong&gt;&lt;em&gt;An unsuccessful attempt&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; of GPU passthrough.&lt;&#x2F;p&gt;
+&lt;p&gt;Thank You!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>React Important Topics</title>
+        <published>2024-01-18T00:00:00+00:00</published>
+        <updated>2024-01-18T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/posts/react-topics/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/posts/react-topics/</id>
+        
+        <content type="html">&lt;h3 id=&quot;react-important-topics-to-learn&quot;&gt;React Important Topics to learn&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;i-ignored-this-topics-which-are-extremely-important&quot;&gt;I ignored this TOPICS which are extremely important !&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+useState&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+useEffect&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+useMemo&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+useRefs&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Recoil&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Prop Drilling&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Context&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Reconciliation&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Rendering&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Hooks&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+CustomHooks&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Writing Components&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Context Api &amp;amp; Suspense Api&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;good-things-to-learn&quot;&gt;Good Things To Learn&lt;&#x2F;h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;State Management Tools&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Routing React Specific&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Performance Improvement jargons&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;React Hook Form &#x2F; Formik&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Backend Specific Topics&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SWR &#x2F; React Query&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Writing FrontEnd Test Cases&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;lastly-move-to-nextjs-or-react-native&quot;&gt;Lastly Move to NextJs or React Native&lt;&#x2F;h4&gt;
+</content>
+        
+    </entry>
+</feed>
