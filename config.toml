@@ -34,6 +34,8 @@ useCDN = false
 
 favicon = "https://adityadeshlahre.github.io/icon/favicon.png"
 
+year = 2026
+
 copyright = "A-D"
 
 katex_enable = true
