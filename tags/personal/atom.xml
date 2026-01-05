@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Hello there - personal</title>
+    <subtitle>I’m  ```Aditya Deshlahre```  — I tinker with Linux, open source, AI, and code in TypeScript &amp; Go. I focus on backend work, infra, deployments, and designing reliable systems.</subtitle>
+    <link href="https://adityadeshlahre.github.io/tags/personal/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://adityadeshlahre.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-12-06T00:00:00+00:00</updated>
+    <id>https://adityadeshlahre.github.io/tags/personal/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Rich People Rich Resources</title>
+        <published>2025-12-06T00:00:00+00:00</published>
+        <updated>2025-12-06T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/posts/rich-people-rich-resources/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/posts/rich-people-rich-resources/</id>
+        
+        <content type="html">&lt;h3 id=&quot;rich-people-rich-resources&quot;&gt;Rich People Rich Resources&lt;&#x2F;h3&gt;
+&lt;p&gt;Just try to understand the statement not the key-words in the statement.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Take a look at my observation below&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;observation&quot;&gt;Observation&lt;&#x2F;h2&gt;
+&lt;p&gt;In corresponding to my 5 years of travel living with people around and observing them I landed on the observation that Rich People have some sort of resource which the people coming from different or humble (i hope you got it) background. Seem to have the comparative less access or knowledge about the things to pursue or how many way we can live the life right or consider it as &lt;ins&gt;&lt;strong&gt;&lt;em&gt;Knowledge of Direction&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;ins&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Definitely there is hard work involved on the both side but on the one side there is &lt;ins&gt;&lt;strong&gt;&lt;em&gt;Direction&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;ins&gt; + &lt;ins&gt;&lt;strong&gt;&lt;em&gt;Resources&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;ins&gt; that leads to the definite other side has to or needs to figure out it own the both things right.&lt;&#x2F;p&gt;
+&lt;p&gt;Down the line the reliance of the first generation on it next generation is to always increase the resources increase the knowledge. Similarly on the other side there is need of fulfilling.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;tldr&quot;&gt;TLDR&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Kings kid will only become King&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This theory remains the same for my surroundings till now, I guess!&lt;&#x2F;p&gt;
+&lt;p&gt;CC → &lt;a href=&quot;https:&#x2F;&#x2F;www.piyushzingade.xyz&quot;&gt;Piyush&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>7th to 12th Year of a Dev</title>
+        <published>2025-11-27T00:00:00+00:00</published>
+        <updated>2025-11-27T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/posts/time-of-a-dev/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/posts/time-of-a-dev/</id>
+        
+        <content type="html">&lt;h3 id=&quot;best-years-of-a-dev&quot;&gt;Best years of a dev&lt;&#x2F;h3&gt;
+&lt;p&gt;Let&#x27;s suppose a developer starts his career at the age of 16 and the current year is 2025, then the best years of a dev are from the 7th to 12th year of their career which is 2032 to 2037.&lt;&#x2F;p&gt;
+&lt;p&gt;Last few years I have been seeing that most senior developers and engineers are in their 7th to 12th year of their career and they are enjoying it.&lt;&#x2F;p&gt;
+&lt;p&gt;A junior developer who started at 16, after grinding for 2-3 years will get a job and after that on the 7th year of their career they will be enjoying their career. Because now they have 2-3 years of experience and they have been working on real projects and they have been learning new things and growing their career.&lt;&#x2F;p&gt;
+&lt;p&gt;I cannot name them here! But it&#x27;s been a while I follow them and observe them unconditionally.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;&#x2F;strong&gt; It&#x27;s just my general observation and I am not sure if it is true or not. But somehow it feels true to me.&lt;&#x2F;p&gt;
+&lt;p&gt;Thank You!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
