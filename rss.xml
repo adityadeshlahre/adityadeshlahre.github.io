@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello there</title>
+    <description>I’m Aditya Deshlahre — I tinker with Linux, open source, AI, and code in TypeScript &amp; Go. I focus on backend work, infra, deployments, and designing reliable systems.</description>
+    <link>https://adityadeshlahre.github.io</link>
+    <atom:link href="https://adityadeshlahre.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Nov 2025 01:40:42 GMT</lastBuildDate>
+    <item>
+      <title>Got Selected For GSoC 2025</title>
+      <link>https://adityadeshlahre.github.io/posts/gsoc-2025/</link>
+      <guid>https://adityadeshlahre.github.io/posts/gsoc-2025/</guid>
+      <pubDate>Sat, 03 May 2025 12:24:15 GMT</pubDate>
+      <description>Got Selected For GSoC 2025</description>
+    </item>
+    <item>
+      <title>Aws Services I wanted to learn!</title>
+      <link>https://adityadeshlahre.github.io/posts/aws-services/</link>
+      <guid>https://adityadeshlahre.github.io/posts/aws-services/</guid>
+      <pubDate>Tue, 22 Apr 2025 16:53:19 GMT</pubDate>
+      <description>Aws Services I wanted to learn!</description>
+    </item>
+    <item>
+      <title>Phase 02 Completed of GSoC 2024</title>
+      <link>https://adityadeshlahre.github.io/posts/phase-02-gsoc-completion/</link>
+      <guid>https://adityadeshlahre.github.io/posts/phase-02-gsoc-completion/</guid>
+      <pubDate>Sun, 25 Aug 2024 02:51:11 GMT</pubDate>
+      <description>Phase 02 Completed of GSoC 2024</description>
+    </item>
+    <item>
+      <title>Phase 01 Completed of GSoC 2024</title>
+      <link>https://adityadeshlahre.github.io/posts/phase-01-GSOC/</link>
+      <guid>https://adityadeshlahre.github.io/posts/phase-01-GSOC/</guid>
+      <pubDate>Mon, 08 Jul 2024 03:41:10 GMT</pubDate>
+      <description>Phase 01 Completed of GSoC 2024</description>
+    </item>
+    <item>
+      <title>Got Selected For GSoC 2024</title>
+      <link>https://adityadeshlahre.github.io/posts/gsoc-2024/</link>
+      <guid>https://adityadeshlahre.github.io/posts/gsoc-2024/</guid>
+      <pubDate>Fri, 03 May 2024 02:12:20 GMT</pubDate>
+      <description>Got Selected For GSoC 2024</description>
+    </item>
+    <item>
+      <title>GPU Passthrough</title>
+      <link>https://adityadeshlahre.github.io/posts/gpu-passthrough/</link>
+      <guid>https://adityadeshlahre.github.io/posts/gpu-passthrough/</guid>
+      <pubDate>Wed, 10 Apr 2024 01:32:31 GMT</pubDate>
+      <description>GPU Passthrough</description>
+    </item>
+    <item>
+      <title>JavaScript Topics I MISSED</title>
+      <link>https://adityadeshlahre.github.io/posts/javascipt-specific-topics/</link>
+      <guid>https://adityadeshlahre.github.io/posts/javascipt-specific-topics/</guid>
+      <pubDate>Tue, 23 Jan 2024 02:22:41 GMT</pubDate>
+      <description>JavaScript Topics I MISSED</description>
+    </item>
+    <item>
+      <title>React Important Topics</title>
+      <link>https://adityadeshlahre.github.io/posts/react-topics/</link>
+      <guid>https://adityadeshlahre.github.io/posts/react-topics/</guid>
+      <pubDate>Thu, 18 Jan 2024 01:10:22 GMT</pubDate>
+      <description>React Important Topics</description>
+    </item>
+    <item>
+      <title>Emacs as Editor</title>
+      <link>https://adityadeshlahre.github.io/posts/emacs-as-editor/</link>
+      <guid>https://adityadeshlahre.github.io/posts/emacs-as-editor/</guid>
+      <pubDate>Wed, 17 Jan 2024 03:23:20 GMT</pubDate>
+      <description>Emacs as Editor</description>
+    </item>
+    <item>
+      <title>Vim as Editor</title>
+      <link>https://adityadeshlahre.github.io/posts/vim-as-editor/</link>
+      <guid>https://adityadeshlahre.github.io/posts/vim-as-editor/</guid>
+      <pubDate>Wed, 10 Jan 2024 01:09:30 GMT</pubDate>
+      <description>Vim as Editor</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Hello there - idea</title>
+    <subtitle>I’m  ```Aditya Deshlahre```  — I tinker with Linux, open source, AI, and code in TypeScript &amp; Go. I focus on backend work, infra, deployments, and designing reliable systems.</subtitle>
+    <link href="https://adityadeshlahre.github.io/tags/idea/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://adityadeshlahre.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-11-23T00:00:00+00:00</updated>
+    <id>https://adityadeshlahre.github.io/tags/idea/atom.xml</id>
+    <entry xml:lang="en">
+        <title>IDEA: Hire Some One To Get Hired</title>
+        <published>2025-11-23T00:00:00+00:00</published>
+        <updated>2025-11-23T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://adityadeshlahre.github.io/posts/hire-someone/" type="text/html"/>
+        <id>https://adityadeshlahre.github.io/posts/hire-someone/</id>
+        
+        <content type="html">&lt;h3 id=&quot;idea&quot;&gt;Idea&lt;&#x2F;h3&gt;
+&lt;p&gt;Hire Some One To Get Hired&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Feels weird right!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Past couple of months I have been thinking of getting hired or trying to get hired by some Remote companies. &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Remember the word &amp;quot;Remote&amp;quot; Here&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;I wasn&#x27;t getting any interview calls or any referrals on tech twitter space which is a bit weird for my profile. Despite the fact my &lt;a href=&quot;https:&#x2F;&#x2F;p.aditya.ovh&quot;&gt;proof of work&lt;&#x2F;a&gt; is too strong (that is what I think, other opinions don&#x27;t matter to me) and I have been active on tech twitter&#x2F;x space for the past 2 months. Still don&#x27;t know what was happening to either the market or twitter&#x2F;x account outreach.&lt;&#x2F;p&gt;
+&lt;p&gt;So, I started thinking of hiring someone to get hired. Maybe it feels dumb but it&#x27;s just an idea and I am not sure if it will work or not. But I can hire a simple guy who has access to all my resources and references and access to all my social accounts and instead of me doing all the work, he can do it for me. I am talking about cold outreach, DMing, etc. Right!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;What do you think of this idea ??&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;And please don&#x27;t talk about AI or any sort of tooling or automations! No, I wouldn&#x27;t allow that much access to it or don&#x27;t want something that I cannot control.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;How&#x27;s the idea?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;PS: I am still looking for Job&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Thank You!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
